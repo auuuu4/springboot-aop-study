@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: aop-study
+logging:
+  file:
+    name: "log/log.txt"
+  level:
+    root: info
